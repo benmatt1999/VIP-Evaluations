@@ -4,9 +4,9 @@ I attached....
 
   1.The Results I got from my tests
   
-  2. The script that has both the evaluation code and the peak picking itself
+ 2. The script that has both the evaluation code and the peak picking itself
   
-  3. The folder full of songs I used
+ 3. The folder full of songs I used
   
   4.The folder full of corresponding annotations
   
